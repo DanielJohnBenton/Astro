@@ -10,16 +10,16 @@ It is based on a game we used to play in the 90's called [AstroFire](http://www.
 
 # Screenshots
 
-[screenshot](screenshots/1.png)
+![screenshot](screenshots/1.png)
 
-[screenshot](screenshots/2.png)
+![screenshot](screenshots/2.png)
 
-[screenshot](screenshots/3.png)
+![screenshot](screenshots/3.png)
 
-[screenshot](screenshots/4.png)
+![screenshot](screenshots/4.png)
 
-[screenshot](screenshots/5.png)
+![screenshot](screenshots/5.png)
 
-[screenshot](screenshots/6.png)
+![screenshot](screenshots/6.png)
 
-[screenshot](screenshots/7.png)
+![screenshot](screenshots/7.png)
